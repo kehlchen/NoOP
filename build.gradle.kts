@@ -3,7 +3,7 @@ plugins {
 }
 
 group = "info.plugin.minecraft"
-version = "1.0.0"
+version = "1.0"
 
 repositories {
     mavenCentral()
@@ -15,7 +15,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly("io.papermc.paper:paper-api:26.3.build.+")
+    compileOnly("io.papermc.paper:paper-api:26.1.1.build.29-alpha")
     implementation("com.squareup.okhttp3:okhttp:5.1.0")
 }
 

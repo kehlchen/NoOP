@@ -19,3 +19,8 @@ hs_err_pid*
 
 # Common working directory
 run
+.gradle/
+build/
+.idea/
+*.iml
+GitHub-Upload.bat

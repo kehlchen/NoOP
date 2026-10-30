@@ -1,4 +1,4 @@
-name: PaperLib
-version: 1.0.0
-main: info.plugin.minecraft.paperlib.PaperLib
-api-version: '26.2'
+name: NoOP
+version: 1.0
+main: info.plugin.minecraft.noop.NoOP
+api-version: '26.1.1'

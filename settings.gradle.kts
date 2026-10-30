@@ -1,1 +1,1 @@
-rootProject.name = "paperlib"
+rootProject.name = "noop"
